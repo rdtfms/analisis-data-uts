@@ -15,5 +15,5 @@ Setelah data dipersiapkan, dua algoritma klasifikasi yang sering digunakan adala
 
 Secara keseluruhan, penggunaan pandas, matplotlib, serta algoritma Naive Bayes dan Decision Tree menyediakan kerangka kerja yang menyeluruh mulai dari tahap persiapan data hingga pengembangan model klasifikasi yang dapat dianalisis dan dievaluasi secara sistematis.
 
-
+# **Tujuan**
 Dibuat untuk memenuhi tugas UTS mata kuliah Data Mining.
